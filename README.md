@@ -11,5 +11,3 @@ _works without receipts_
 home lab: ansible + openwrt + lora; cp-leaning lan store; custom dns/dhcp; otel end-to-end;
 
 _wiki.c2.com_
-
-_homotopytypetheory.org_
