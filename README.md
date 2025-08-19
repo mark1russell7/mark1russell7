@@ -1,16 +1,15 @@
-## Hi there 👋
+> can't center a div without first building a compiler.
 
-<!--
-**mark1russell7/mark1russell7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+builds small, decent, inspectable systems. ~~probably should ship a feature sometime~~.
 
-Here are some ideas to get you started:
+_works without receipts_
+- **[]** — coinductive visual language (graph based; coinductive coc + HoTT inspired; dynamic coinductive partial recompilation at runtime; frp + generalized refs + total introspection; secret sauce)
+- **[]** — declarative data viz, (composable frp; wysiwyg node graph; self-reflection; visual debugger; fully declarative; compiler-backed)
+- **[]** — network diagnostic tool
+- **[]** — declarative-first component framework + reactive graph compiler for interactive 3d in the browser
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+home lab: ansible + openwrt + lora; cp-leaning lan store; custom dns/dhcp; otel end-to-end;
+
+(*features)--; branchless where it matters.
+
+_wiki.c2.com_
