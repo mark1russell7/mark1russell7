@@ -10,6 +10,4 @@ _works without receipts_
 
 home lab: ansible + openwrt + lora; cp-leaning lan store; custom dns/dhcp; otel end-to-end;
 
-(*features)--; branchless where it matters.
-
 _wiki.c2.com_
