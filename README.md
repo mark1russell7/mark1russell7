@@ -1,4 +1,4 @@
-> can't center a div without first building a compiler.
+> can't center a div without building a compiler.
 
 builds small, decent, inspectable systems. ~~probably should ship a feature sometime~~.
 
