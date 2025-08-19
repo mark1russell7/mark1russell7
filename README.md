@@ -1,9 +1,9 @@
 > can't center a div without building a compiler.
 
-builds small, decent, inspectable systems. ~~probably should ship a feature sometime~~.
+builds small, fast, inspectable systems. ~~probably should ship a feature sometime~~.
 
-_private works without receipts_
-- **[]** — visual language (graph based; coinductive coc + HoTT inspired; dynamic coinductive partial recompilation at runtime; frp + generalized refs + total introspection; secret sauce)
+_works without receipts_
+- **[]** — visual language (graph based; coinductive coc + hott inspired; dynamic coinductive partial recompilation at runtime; frp + generalized refs + total introspection; secret sauce)
 - **[]** — ui framework (composable frp; wysiwyg node graph; self-reflection; visual debugger; fully declarative; compiler-backed)
 - **[]** — network diagnostic tool
 - **[]** — mini declarative-first component framework + reactive graph compiler for interactive 3d in the browser
