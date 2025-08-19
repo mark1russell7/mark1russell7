@@ -7,7 +7,6 @@ _works without receipts_
 - **[framework]** — composable frp; wysiwyg graph; self-reflection; visual debugger; fully declarative; compiler-backed
 - **[tool]** — network diagnostic tool
 - **[mini framework]** — mini declarative-first component framework + reactive graph compiler for interactive 3d in the browser
-
-home lab: ansible + openwrt + lora; cp-leaning lan store; custom dns/dhcp; otel end-to-end;
+- **[home lab]** — ansible + openwrt + lora; cp-leaning lan store; custom dns/dhcp; otel end-to-end;
 
 _wiki.c2.com_
