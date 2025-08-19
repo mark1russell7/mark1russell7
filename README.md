@@ -3,7 +3,7 @@
 builds small, fast, inspectable systems. ~~probably should ship a feature sometime~~.
 
 _works without receipts_
-- **[language]** — coinductive coc; dynamic partial recompilation at runtime; frp + generalized refs + total introspection; secret sauce
+- **[language]** — coinductive coc; runtime dependency-aware partial recompilation; frp + generalized refs + total introspection; secret sauce
 - **[framework]** — composable frp; wysiwyg; self-reflection; visual debugger; fully declarative; compiler-backed
 - **[tool]** — network diagnostic tool
 - **[mini framework]** — mini declarative-first component framework + reactive graph compiler
