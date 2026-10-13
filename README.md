@@ -2,7 +2,7 @@
 
 _Der Auftakt_
 - **[Vex]** functional chain dsl w/ notes of optionals and hints of vectors
-- **[Jqy]** aromatic layout engine
+- **[ireko]** aromatic layout engine
 - **[Funk]** funkalicious sugar-coated lambdas
 
 _Hauptgänge_
